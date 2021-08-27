@@ -1,0 +1,5 @@
+name: jruby-mybinder
+channels:
+  - conda-forge
+dependencies:
+  - openjdk
